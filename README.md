@@ -1,4 +1,4 @@
-# README.md-
+# README.md
 # 👋 Hi, I'm Dharmik Shah!
 
 🚀 **IT Professional | Aspiring Data Scientist | Problem Solver**
