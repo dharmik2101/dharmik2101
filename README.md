@@ -66,7 +66,7 @@
 ## 🌐 **Let's Connect**
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/dharmik-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/dharmikshah21/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
   <a href="mailto:dshah125@asu.edu"><img src="https://img.shields.io/badge/Email-Send%20Mail-blue?style=flat&logo=gmail" alt="Email"></a>
   <a href="https://github.com/dharmik2101"><img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github" alt="GitHub"></a>
 </p>
