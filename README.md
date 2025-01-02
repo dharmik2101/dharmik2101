@@ -32,15 +32,15 @@
 ---
 
 ## 📂 **Projects**
-### 🔍 **[Chicago Crime Analysis](https://github.com/dharmik2101/)**  
+### 🔍 **[Chicago Crime Analysis](https://public.tableau.com/app/profile/dharmik.shah2873/viz/Chicago_Crime_Analysis_17136777823450/ChicagoCrimeAnalysis)**  
 - 📈 Analyzed 5,000+ crime records to boost arrest efficiency by 25%.  
 - 🛠️ Built Tableau dashboards to visualize crime trends and forecast hotspots.
 
-### 📰 **[Fake News Detection](https://github.com/dharmik2101/)**  
+### 📰 **[Fake News Detection]([https://github.com/dharmik2101/](https://github.com/dharmik2101/Fake-News-Detection-Using-Machine-Learning))**  
 - 🤖 Achieved 99.5% accuracy using advanced NLP techniques.  
 - 🛠️ Developed a real-time fake news classifier for impactful analysis.
 
-### 🛒 **[Retail Sales Forecasting](https://github.com/dharmik2101/)**  
+### 🛒 **[Retail Sales Forecasting](https://github.com/dharmik2101/Retail-Sales-Forecasting-with-Time-Series-Analysis-)**  
 - 📊 Optimized time-series modeling, reducing training time by 25%.  
 - 🚀 Delivered insights to 50+ stakeholders with dynamic visualizations.
 
