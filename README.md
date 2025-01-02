@@ -1,89 +1,80 @@
-# README.md
-# 👋 Hi, I'm Dharmik Shah!
+# 👋 Hey there!! I'm Dharmik Shah, Welcome to My Profile!  
 
-🚀 **IT Professional | Aspiring Data Scientist | Problem Solver**
+🌟 **Data Enthusiast | IT Professional | Aspiring Data Scientist**  
+🎯 **Expert in Data Solutions**: Data Engineering, Visualization, Machine Learning, and Predictive Modeling.
 
-Welcome to my GitHub! I'm passionate about **data analytics**, **machine learning**, and **transforming raw data into actionable insights**. With hands-on experience in data engineering, business intelligence, and cloud platforms, I aim to contribute to data-driven decision-making in innovative ways.
-
----
-
-## 🌟 **About Me**
-
-- 🎓 **Master’s in Information Technology** (Arizona State University, GPA: 4.0/4.0)
-- 💻 **Experience**: Teaching Assistant | Web Developer | Software Engineer Intern
-- 📍 Based in **Arizona, USA**
-- ✨ Skilled in turning complex datasets into meaningful visualizations and predictive models.
+![Profile Views](https://komarev.com/ghpvc/?username=dharmik2101&color=blue)  
+[![GitHub Followers](https://img.shields.io/github/followers/dharmik2101?label=Follow&style=social)](https://github.com/dharmik2101)
 
 ---
 
-## 🛠️ **Technologies & Tools**
+## 🚀 **About Me**
+- 🎓 **Master's in Information Technology**, Arizona State University (May 2025)  
+- 🎓 **Bachelor's in Computer Engineering**, Gujarat Technological University (June 2022)  
+- 🔍 Passionate about turning raw data into actionable insights and solving real-world business problems.
+- 🌐 Skilled in Python, SQL, Tableau, Power BI, and advanced data modeling.
+- 🌟 Fun fact: I founded the **Indian Cultural Association** at ASU to foster inclusivity and teamwork.
 
-### 🚀 **Programming & Data Science**
-- **Languages**: Python, SQL, JavaScript, HTML, CSS  
-- **Libraries**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch  
-- **Data Visualization**: Tableau, Power BI  
+---
 
-### 🔗 **Cloud & Engineering**
-- **Platforms**: AWS, Azure, Snowflake, Databricks  
-- **Tools**: MySQL, MongoDB, Apache Spark, Airflow  
+## 🛠️ **Technical Skills**
+
+### ⚙️ **Programming & Tools**
+- 🐍 **Languages**: Python, SQL, JavaScript, HTML, CSS  
+- 🧮 **Data Science**: Pandas, NumPy, Scikit-Learn, TensorFlow, PyTorch  
+- 📊 **Data Visualization**: Tableau, Power BI  
+- ☁️ **Cloud & Deployment**: AWS, Azure, Docker, Kubernetes  
+- 🛠️ **Big Data**: Snowflake, Databricks, Apache Spark  
 
 ### 🏆 **Certifications**
-- **GenAI | AWS S3 Basic | Data Science in Python | Cisco Data Science**
+- GenAI | AWS S3 Basic | Data Science in Python | Cisco Data Science  
 
 ---
 
-## 🔍 **What I Do**
+## 📂 **Projects**
+### 🔍 **[Chicago Crime Analysis](https://github.com/dharmik2101/)**  
+- 📈 Analyzed 5,000+ crime records to boost arrest efficiency by 25%.  
+- 🛠️ Built Tableau dashboards to visualize crime trends and forecast hotspots.
 
-### 1️⃣ **Data Analytics & Visualization**
-- Build interactive dashboards and visuals using Tableau and Power BI.  
-- Craft end-to-end data pipelines with Python and SQL for actionable insights.
+### 📰 **[Fake News Detection](https://github.com/dharmik2101/)**  
+- 🤖 Achieved 99.5% accuracy using advanced NLP techniques.  
+- 🛠️ Developed a real-time fake news classifier for impactful analysis.
 
-### 2️⃣ **Machine Learning & NLP**
-- Develop predictive models with advanced algorithms and NLP techniques.  
-- Specialize in fake news detection, time-series forecasting, and more.
-
-### 3️⃣ **Real-World Impact**
-- 🎯 Boosted student project quality scores by **30%** through effective teaching methods.  
-- 🚀 Designed ETL pipelines that saved **$50,000 annually** for a leading firm.  
-- 🏆 Created scalable architectures to support apps with over **1M daily users**.
+### 🛒 **[Retail Sales Forecasting](https://github.com/dharmik2101/)**  
+- 📊 Optimized time-series modeling, reducing training time by 25%.  
+- 🚀 Delivered insights to 50+ stakeholders with dynamic visualizations.
 
 ---
 
-## 🛠️ **Highlighted Projects**
-
-### 🔍 **[Chicago Crime Analysis](https://github.com/dharmik2101)**  
-- Analyzed 5,000+ crime records to boost arrest efficiency by 25%.  
-- Built dashboards in Tableau to visualize crime trends and forecast hotspots.
-
-### 📰 **[Fake News Detection](https://github.com/dharmik2101)**  
-- Achieved 99.5% accuracy using advanced NLP techniques in Python.  
-- Developed a real-time fake news classifier for impactful analysis.
-
-### 🛒 **[Retail Sales Forecasting](https://github.com/dharmik2101)**  
-- Optimized time-series modeling, reducing training time by 25%.  
-- Delivered insights to 50+ stakeholders via dynamic visualizations.
+## 🎯 **What I Do**
+- 🔎 Analyze complex datasets to uncover actionable insights.  
+- 📊 Build interactive dashboards with Tableau and Power BI.  
+- 🤖 Develop machine learning models to solve business challenges.  
+- 🚀 Collaborate with teams to deploy scalable data solutions.
 
 ---
 
-## 📈 **GitHub Stats**
+## 📊 **GitHub Stats**
 
-![Dharmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dharmik2101&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dharmik2101&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dharmik2101&show_icons=true&theme=radical" alt="Dharmik's GitHub Stats" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmik2101&theme=radical" alt="GitHub Streak Stats" width="49%" />
+</div>
 
 ---
 
 ## 🌐 **Let's Connect**
 
-- **LinkedIn**: [Dharmik Shah](https://www.linkedin.com/in/dharmik-shah)  
-- **GitHub**: [dharmik2101](https://github.com/dharmik2101)  
-- **Email**: dshah125@asu.edu  
+<p align="center">
+  <a href="https://www.linkedin.com/in/dharmik-shah" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
+  <a href="mailto:dshah125@asu.edu"><img src="https://img.shields.io/badge/Email-Send%20Mail-blue?style=flat&logo=gmail" alt="Email"></a>
+  <a href="https://github.com/dharmik2101"><img src="https://img.shields.io/badge/GitHub-Follow-lightgrey?style=flat&logo=github" alt="GitHub"></a>
+</p>
 
 ---
 
-### 🌟 **Fun Fact**
-📚 I'm the founder of the **Indian Cultural Association at ASU**, where I promote inclusivity and manage community events to celebrate diversity!
-
----
+## 🎉 **Fun Extras**
+![Snake animation](https://github.com/dharmik2101/dharmik2101/blob/output/github-contribution-grid-snake.svg)
 
 ✨ **"Let's transform data into insights and insights into impact!"**
 
