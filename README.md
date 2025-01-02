@@ -36,7 +36,7 @@
 - 📈 Analyzed 5,000+ crime records to boost arrest efficiency by 25%.  
 - 🛠️ Built Tableau dashboards to visualize crime trends and forecast hotspots.
 
-### 📰 **[Fake News Detection]([https://github.com/dharmik2101/](https://github.com/dharmik2101/Fake-News-Detection-Using-Machine-Learning))**  
+### 📰 **[Fake News Detection](https://github.com/dharmik2101/](https://github.com/dharmik2101/Fake-News-Detection-Using-Machine-Learning)**  
 - 🤖 Achieved 99.5% accuracy using advanced NLP techniques.  
 - 🛠️ Developed a real-time fake news classifier for impactful analysis.
 
