@@ -73,8 +73,5 @@
 
 ---
 
-## 🎉 **Fun Extras**
-![Snake animation](https://github.com/dharmik2101/dharmik2101/blob/output/github-contribution-grid-snake.svg)
-
 ✨ **"Let's transform data into insights and insights into impact!"**
 
