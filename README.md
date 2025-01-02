@@ -2,6 +2,7 @@
 
 🌟 **Data Enthusiast | IT Professional | Aspiring Data Scientist**  
 🎯 **Expert in Data Solutions**: Data Engineering, Visualization, Machine Learning, and Predictive Modeling.
+✨ **"Let's transform data into insights and insights into impact!"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dharmik2101&color=blue)  
 [![GitHub Followers](https://img.shields.io/github/followers/dharmik2101?label=Follow&style=social)](https://github.com/dharmik2101)
@@ -74,5 +75,4 @@
 ---
 
 
-✨ **"Let's transform data into insights and insights into impact!"**
 
