@@ -1,4 +1,4 @@
-# 👋 <span style="animation: blink 1s infinite;">Hey there!! I'm Dharmik Shah</span>, Welcome to My Profile!  
+# 👋 Hey there!! I'm Dharmik Shah, Welcome to My Profile!  
 
 🌟 **Data Enthusiast | IT Professional | Aspiring Data Scientist**  
 🎯 **Expert in Data Solutions**: Data Engineering, Visualization, Machine Learning, and Predictive Modeling.
@@ -9,18 +9,15 @@
 ---
 
 ## 🚀 **About Me**
-<span style="animation: fadeIn 2s infinite;">🌟 Transforming data into actionable insights and solving real-world problems.</span>
-
 - 🎓 **Master's in Information Technology**, Arizona State University (May 2025)  
 - 🎓 **Bachelor's in Computer Engineering**, Gujarat Technological University (June 2022)  
+- 🔍 Passionate about turning raw data into actionable insights and solving real-world business problems.
 - 🌐 Skilled in Python, SQL, Tableau, Power BI, and advanced data modeling.
 - 🌟 Fun fact: I founded the **Indian Cultural Association** at ASU to foster inclusivity and teamwork.
 
 ---
 
 ## 🛠️ **Technical Skills**
-
-![Coding Animation](https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif)
 
 ### ⚙️ **Programming & Tools**
 - 🐍 **Languages**: Python, SQL, JavaScript, HTML, CSS  
@@ -29,21 +26,21 @@
 - ☁️ **Cloud & Deployment**: AWS, Azure, Docker, Kubernetes  
 - 🛠️ **Big Data**: Snowflake, Databricks, Apache Spark  
 
+### 🏆 **Certifications**
+- GenAI | AWS S3 Basic | Data Science in Python | Cisco Data Science  
+
 ---
 
 ## 📂 **Projects**
 ### 🔍 **[Chicago Crime Analysis](https://github.com/dharmik2101/)**  
-![Crime Analysis](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)
 - 📈 Analyzed 5,000+ crime records to boost arrest efficiency by 25%.  
 - 🛠️ Built Tableau dashboards to visualize crime trends and forecast hotspots.
 
 ### 📰 **[Fake News Detection](https://github.com/dharmik2101/)**  
-![Fake News Detection](https://media.giphy.com/media/26xBuBIqWMsmb9vT2/giphy.gif)
 - 🤖 Achieved 99.5% accuracy using advanced NLP techniques.  
 - 🛠️ Developed a real-time fake news classifier for impactful analysis.
 
 ### 🛒 **[Retail Sales Forecasting](https://github.com/dharmik2101/)**  
-![Retail Analysis](https://media.giphy.com/media/3orieZ2kWLdTqwE5ja/giphy.gif)
 - 📊 Optimized time-series modeling, reducing training time by 25%.  
 - 🚀 Delivered insights to 50+ stakeholders with dynamic visualizations.
 
@@ -66,13 +63,6 @@
 
 ---
 
-## 🎨 **Trending Animations**
-
-### 🐍 Contribution Snake Animation
-![Snake animation](https://github.com/dharmik2101/dharmik2101/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🌐 **Let's Connect**
 
 <p align="center">
@@ -83,21 +73,6 @@
 
 ---
 
+
 ✨ **"Let's transform data into insights and insights into impact!"**
 
----
-
-<style>
-@keyframes blink {
-  0% { opacity: 1; }
-  50% { opacity: 0; }
-  100% { opacity: 1; }
-}
-@keyframes fadeIn {
-  0% { opacity: 0; }
-  100% { opacity: 1; }
-}
-span {
-  display: inline-block;
-}
-</style>
