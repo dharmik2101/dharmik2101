@@ -28,7 +28,7 @@
 - 🛠️ **Big Data**: Snowflake, Databricks, Apache Spark  
 
 ### 🏆 **Certifications**
-- GenAI | AWS S3 Basic | Data Science in Python | Cisco Data Science  
+- Hancker Rank SQL| GenAI | AWS S3 Basic | Data Science in Python | Cisco Data Science  
 
 ---
 
